@@ -7,7 +7,10 @@ __pycache__/
 
 # Data
 data/raw/*
+!data/raw/.gitkeep
+!data/raw/README.md
 data/interim/*
+!data/interim/.gitkeep
 data/processed/*
 !data/**/.gitkeep
 
