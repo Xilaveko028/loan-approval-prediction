@@ -35,3 +35,11 @@ Thumbs.db
 
 # MLflow
 mlruns/
+
+# Editor backup files
+
+# Editor backup files
+*.save
+*.bak
+*.swp
+*~
