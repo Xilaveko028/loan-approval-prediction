@@ -1,0 +1,7 @@
+Metric,Tuned HistGradientBoosting
+Accuracy,0.9031
+Precision,0.8294
+Recall,0.71
+F1 Score,0.7651
+ROC-AUC,0.9609
+Average Precision,0.8932
